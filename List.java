@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class List {
     static void crearArrayList(){
+        //COMENTARIO DE PRUEBA
         ArrayList<Integer> arrayEnteros = new ArrayList<>();
         arrayEnteros.add(22);
         arrayEnteros.add(77);
